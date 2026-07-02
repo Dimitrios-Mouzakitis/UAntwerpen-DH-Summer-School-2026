@@ -16,15 +16,6 @@ The edition has been encoded according to the Text Encoding Initiative (TEI) Gui
 - JavaScript
 - GitHub Pages
 
-## Repository Structure
-
-```
-├── data/          # TEI/XML source files
-├── docs/          # Website files for GitHub Pages
-├── images/        # Images used in the edition
-└── README.md
-```
-
 ## Website
 
 The online edition is available at:
