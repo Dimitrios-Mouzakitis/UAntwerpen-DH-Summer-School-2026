@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Return of Sherlock Holmes: No. 2. The Adventure of the Norwood Builder</title>
+            <author>Arthur Conan Doyle</author>
+            <respStmt>
+               <resp>Transcription and TEI encoding</resp>
+               <name>Dimitrios Chrysovalantis Mouzakitis</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Antwerp</publisher>
+            <date type="[2026-07-02]">2 July 2026</date>
+            <availability>
+               <p>[όροι αδειοδότησης, π.χ. CC-BY 4.0]</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library</repository>
+                  <idno>[shelfmark / call number, αν υπάρχει]</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>The Adventure of the Norwood Builder</title>
+                     <author>Arthur Conan Doyle</author>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>Autograph manuscript, [φύλλο 21v κ.λπ.]</p>
+               </physDesc>
+               <history>
+                  <origin>
+                     <date when="1903">1903</date>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="oldacre">
+                  <persName>Jonas Oldacre</persName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q10307970</idno>
+               </person>
+               <person xml:id="lestrade">
+                  <persName>G. Lestrade</persName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q1067723</idno>
+               </person>
+               <person xml:id="holmes">
+                  <persName>Sherlock Holmes</persName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q4653</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5211" lry="7115" xml:id="facs_1">
+         <graphic url="046_21v.jpeg" width="5211px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=NMMPYAFBASVGWFLERZAMIBCA" width="5211px" height="7115px"/>
+         <zone points="4646,261 4845,261 4845,430 4646,430" rendition="TextRegion" xml:id="facs_1_r_3" subtype="page-number">
+            <zone points="4591,195 4786,195 4786,495 4591,495" rendition="Line" xml:id="facs_1_r_tl_1"/>
+         </zone>
+         <zone points="108,262 4653,262 4653,976 108,976" rendition="TextRegion" xml:id="facs_1_r_1" subtype="paragraph">
+            <zone points="67,293 4475,293 4475,592 67,592" rendition="Line" xml:id="facs_1_r_tl_2"/>
+            <zone points="79,488 4609,488 4609,818 79,818" rendition="Line" xml:id="facs_1_r_1_tl_1"/>
+            <zone points="67,745 1575,745 1575,1062 67,1062" rendition="Line" xml:id="facs_1_r_tl_3"/>
+         </zone>
+         <zone points="86,995 4944,995 4944,1932 86,1932" rendition="TextRegion" xml:id="facs_1_r_2" subtype="paragraph">
+            <zone points="61,971 4847,971 4847,1435 61,1435" rendition="Line" xml:id="facs_1_r_2_tl_1"/>
+            <zone points="61,1331 4585,1331 4585,1691 61,1691" rendition="Line" xml:id="facs_1_r_2_tl_3"/>
+            <zone points="3822,1252 4713,1252 4713,1477 3822,1477" rendition="Line" xml:id="facs_1_r_2_tl_2"/>
+            <zone points="67,1612 3132,1612 3132,2027 67,2027" rendition="Line" xml:id="facs_1_r_2_tl_4"/>
+            <zone points="220,1569 830,1569 830,1832 220,1832" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+         <zone points="113,1937 5001,1937 5001,5194 113,5194" rendition="TextRegion" xml:id="facs_1_r_4" subtype="paragraph">
+            <zone points="623,1899 4695,1899 4695,2283 623,2283" rendition="Line" xml:id="facs_1_r_4_tl_2"/>
+            <zone points="2009,1856 2295,1856 2295,2057 2009,2057" rendition="Line" xml:id="facs_1_r_4_tl_1"/>
+            <zone points="55,2216 4908,2216 4908,2619 55,2619" rendition="Line" xml:id="facs_1_r_tl_4"/>
+            <zone points="55,2527 4969,2527 4969,2943 55,2943" rendition="Line" xml:id="facs_1_r_tl_5"/>
+            <zone points="2937,2491 3181,2491 3181,2674 2937,2674" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="37,2839 4872,2839 4872,3181 37,3181" rendition="Line" xml:id="facs_1_r_tl_6"/>
+            <zone points="885,2778 1166,2778 1166,2991 885,2991" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="104,3114 4707,3114 4707,3474 104,3474" rendition="Line" xml:id="facs_1_r_4_tl_3"/>
+            <zone points="140,3394 4872,3394 4872,3773 140,3773" rendition="Line" xml:id="facs_1_r_4_tl_4"/>
+            <zone points="73,3724 4860,3724 4860,4072 73,4072" rendition="Line" xml:id="facs_1_r_tl_7"/>
+            <zone points="128,3999 4976,3999 4976,4389 128,4389" rendition="Line" xml:id="facs_1_r_4_tl_5"/>
+            <zone points="134,4292 4921,4292 4921,4670 134,4670" rendition="Line" xml:id="facs_1_r_4_tl_6"/>
+            <zone points="153,4621 4957,4621 4957,4976 153,4976" rendition="Line" xml:id="facs_1_r_4_tl_7"/>
+            <zone points="128,4884 3645,4884 3645,5299 128,5299" rendition="Line" xml:id="facs_1_r_4_tl_8"/>
+         </zone>
+         <zone points="109,5236 5012,5236 5012,6166 109,6166" rendition="TextRegion" xml:id="facs_1_r_5" subtype="paragraph">
+            <zone points="867,5183 4768,5183 4768,5562 867,5562" rendition="Line" xml:id="facs_1_r_5_tl_1"/>
+            <zone points="201,5513 4817,5513 4817,5836 201,5836" rendition="Line" xml:id="facs_1_r_5_tl_2"/>
+            <zone points="281,5733 2906,5733 2906,5934 281,5934" rendition="Line" xml:id="facs_1_r_5_tl_3"/>
+            <zone points="232,5794 4994,5794 4994,6154 232,6154" rendition="Line" xml:id="facs_1_r_5_tl_4"/>
+         </zone>
+         <zone points="143,6166 4962,6166 4962,6756 143,6756" rendition="TextRegion" xml:id="facs_1_r_6" subtype="paragraph">
+            <zone points="1068,6117 4603,6117 4603,6477 1068,6477" rendition="Line" xml:id="facs_1_r_6_tl_1"/>
+            <zone points="1074,6325 1685,6325 1685,6532 1074,6532" rendition="Line" xml:id="facs_1_r_6_tl_2"/>
+            <zone points="159,6404 842,6404 842,6691 159,6691" rendition="Line" xml:id="facs_1_r_6_tl_3"/>
+            <zone points="885,6374 4939,6374 4939,6819 885,6819" rendition="Line" xml:id="facs_1_r_6_tl_4"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r_3" place="top">
+            <lb facs="#facs_1_r_tl_1" n="N001"/>20</fw>
+            <p facs="#facs_1_r_1">
+               <lb facs="#facs_1_r_tl_2" n="N001"/>would hide all traces of the method of his death - traces
+               <lb facs="#facs_1_r_1_tl_1" n="N002"/>which for some reason must have pointed to him. Is all
+               <lb facs="#facs_1_r_tl_3" n="N003"/>this not obvious?"</p>
+            <p facs="#facs_1_r_2">
+               <lb facs="#facs_1_r_2_tl_1" n="N001"/>could appear that <rs type="person" ref="#oldacre">Oldacre</rs>, who was a very excentres crature, and
+               <lb facs="#facs_1_r_2_tl_3" n="N002"/>man without a friend in the world, had gone off taking his
+               <lb facs="#facs_1_r_2_tl_2" n="N003"/>p
+               <lb facs="#facs_1_r_2_tl_4" n="N004"/>ropers with him. Is all that not obvious?
+               <lb facs="#facs_1_l" n="N005"/>his </p>
+            <p facs="#facs_1_r_4">
+               <lb facs="#facs_1_r_4_tl_2" n="N001"/>"It strikes me, my <rs type="person" ref="#lestrade">Lestrade</rs>, as being just a triple
+               <lb facs="#facs_1_r_4_tl_1" n="N002"/>good
+               <lb facs="#facs_1_r_tl_4" n="N003"/>too obvious" said <rs type="person" ref="#holmes">Holmes</rs> "You do not add imagination to your
+               <lb facs="#facs_1_r_tl_5" n="N004"/>other great qualities, but if you could for a moment put yourself in
+               <lb facs="#facs_1_l_1" n="N005"/>one
+               <lb facs="#facs_1_r_tl_6" n="N006"/>the place of a young man would you choose the very night after
+               <lb facs="#facs_1_l_3" n="N007"/>this
+               <lb facs="#facs_1_r_4_tl_3" n="N008"/>the will had been made to commit your crime, would it not
+               <lb facs="#facs_1_r_4_tl_4" n="N009"/>seem danerous to you to make so very close a relation between
+               <lb facs="#facs_1_r_tl_7" n="N010"/>the two incidents. Again would you choose an occasion when
+               <lb facs="#facs_1_r_4_tl_5" n="N011"/>you are known to be in the house, when a servant has let you in,
+               <lb facs="#facs_1_r_4_tl_6" n="N012"/>and finally would you take great pains to conceal the body, and
+               <lb facs="#facs_1_r_4_tl_7" n="N013"/>yet leave your own stick as a sign that you were the criminal.
+               <lb facs="#facs_1_r_4_tl_8" n="N014"/>Confess, <rs type="person" ref="#lestrade">Lestrade</rs>, that all this is very unlikely"</p>
+            <p facs="#facs_1_r_5">
+               <lb facs="#facs_1_r_5_tl_1" n="N001"/>"As to the stick, Mr <rs type="person" ref="#holmes">Holmes</rs>, you know as well as I do
+               <lb facs="#facs_1_r_5_tl_2" n="N002"/>that a criminal is often flurried and does things which a cool
+               <lb facs="#facs_1_r_5_tl_3" n="N003"/>He was very likely apaid 170 back to the room.
+               <lb facs="#facs_1_r_5_tl_4" n="N004"/>man would avoid. Give me another theory that would fet the facts"</p>
+            <p facs="#facs_1_r_6">
+               <lb facs="#facs_1_r_6_tl_1" n="N001"/>"I could very casily give you half a dozen" said
+               <lb facs="#facs_1_r_6_tl_2" n="N002"/>for example
+               <lb facs="#facs_1_r_6_tl_3" n="N003"/><rs type="person" ref="#holmes">Holmes</rs>
+               <lb facs="#facs_1_r_6_tl_4" n="N004"/>"Here is a very possible and even probable one. I make</p></div>
+      </body>
+   </text>
+</TEI>
