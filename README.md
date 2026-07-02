@@ -18,7 +18,8 @@ The edition has been encoded according to the Text Encoding Initiative (TEI) Gui
 
 ## Website
 
-The online edition is available at: https://dimitrios-mouzakitis.github.io/UAntwerpen-DH-Summer-School-2026/
+The online edition is available at: 
+**https://dimitrios-mouzakitis.github.io/UAntwerpen-DH-Summer-School-2026/**
 
 ## Authors
 
